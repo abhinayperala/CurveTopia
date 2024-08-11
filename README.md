@@ -43,7 +43,7 @@ CURVETOPIA is a Streamlit-based web application that allows users to upload CSV 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/curvetopia.git
+   git clone https://github.com/abhinayperala/CurveTopia.git
    cd curvetopia
 2. Install the required dependencies
    ```bash

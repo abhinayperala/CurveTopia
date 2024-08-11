@@ -13,7 +13,7 @@ CURVETOPIA is a Streamlit-based web application that allows users to upload CSV 
 - **Regularization**: Detected shapes are regularized (straightened, aligned) and drawn on a new image.
 - **Visualization**: The input shapes and regularized shapes are displayed on the web interface.
 - **User Interface**: The app provides an easy-to-use interface with a simple file uploader and image display.
-- **Footer Credit**: The web app includes a footer with credit information.
+
 
 ## How It Works
 
